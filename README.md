@@ -10,6 +10,8 @@ Implemente uma função que receba um número inteiro positivo e retorne o
 somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
 número passado.
 
+Toda a lógica do projeto está no arquivo src/pages/Home
+
 ## Como rodar
 
 - Abra a pasta do projeto em um terminal
